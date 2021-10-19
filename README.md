@@ -2,8 +2,9 @@
 Implementing Gossip Algorithm for information propagation and Push-Sum algorithm for sum computation
 
 # Team Members
-1. Akshay Ganapathy (UFID - 3684-6922)
-2. Kamal Sai Raj Kuncha (UFID - 4854-8114)
+1. Kamal Sai Raj Kuncha (UFID - 4854-8114)
+2. Akshay Ganapathy (UFID - 3684-6922)
+
 
 # Problem definition
 As described in class Gossip type algorithms can be used both for group communication and for aggregate computation. The goal of this project is to determine the convergence of such algorithms through a simulator based on actors written in F#. Since actors in F# are fully asynchronous, the particular type of Gossip implemented is the so called Asynchronous Gossip.
