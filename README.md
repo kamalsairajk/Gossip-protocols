@@ -2,8 +2,8 @@
 Implementing Gossip Algorithm for information propagation and Push-Sum algorithm for sum computation
 
 # Team Members
-1. Kamal Sai Raj Kuncha (UFID - 4854-8114)
-2. Akshay Ganapathy (UFID - 3684-6922)
+1. Kamal Sai Raj Kuncha 
+2. Akshay Ganapathy
 
 
 # Problem definition
